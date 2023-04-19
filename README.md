@@ -1,1 +1,2 @@
 # intrauterin
+Druckimpulse der Bewegungen des Fötus und der Mutter sollen durch die Sensoren erfasst werden. Die Druckimpulse sollen als Sinuston dargestellt werden. Je größer der Druckimpuls, desto höher die Frequenz. Der Frequenzbereich soll zwischen 20Hz und 35000Hz liegen. Der Sinuston soll mit MIDI bearbeitet werden können. Frequenzen über 500Hz sollen um 15dB gedämpft werden, um das Hören eines Fötus nachempfinden zu können. 
